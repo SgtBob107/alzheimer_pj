@@ -1,0 +1,5 @@
+outs:
+- md5: f01b1f4197fb211a0eb9d9e5f5495efa
+  size: 602478
+  hash: md5
+  path: alzheimer.csv
