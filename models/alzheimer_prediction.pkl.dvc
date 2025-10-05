@@ -1,0 +1,5 @@
+outs:
+- md5: 6232be0435241fcbb89696b591c7bf72
+  size: 173542
+  hash: md5
+  path: alzheimer_prediction.pkl
