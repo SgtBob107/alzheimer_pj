@@ -1,0 +1,5 @@
+outs:
+- md5: 0c2db8f6423a801db747bf8c5c695950
+  size: 173862
+  hash: md5
+  path: alzheimer_scaler-features.pkl
